@@ -5,8 +5,12 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 + presentation contains the Powerpoint presentation
 
 ## Consulted material
-### Articles
-+ [A mathematical theory of communication]() - the original paper by Claude Shannon, published in 1948 in *The Bell System Technical Journal*. Check its [wikipedia entry](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
+### Scientific material
++ [A mathematical theory of communication](https://github.com/cschaffner/ITNuggets/raw/main/articles/Shannon48MathematicalTheoryOfCommunication.pdf) - the original paper by Claude Shannon, published in 1948 in *The Bell System Technical Journal*. Check its [wikipedia entry](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
++ Course lecture notes (work-in-progress) by Yfke Dulek and Christian Schaffner, available on https://github.com/cschaffner/InformationTheory/raw/master/Script/InfTheory3.pdf
++ Thomas M. Cover, Joy A. Thomas. 'Elements of information theory': http://onlinelibrary.wiley.com/book/10.1002/0471200611, 2nd Edition. New York: Wiley-Interscience, 2006. ISBN 0-471-24195-4.
++ David J. C. MacKay. 'Information Theory, Inference, and Learning Algorithms': http://www.inference.phy.cam.ac.uk/mackay/itila/book.html. Cambridge University Press, 2003. ISBN 0-521-64298-1
++ Michael Walter's [course homepage](https://qi.ruhr-uni-bochum.de/iit21/) of his course "Introduction to Information Theory (Fall 2021)".
 
 ### Videos about Logarithms
 + [How to program your own Log() function](https://www.youtube.com/watch?v=PLx5VJGGwfw), [python code](https://github.com/Gonkee/Gonkees-Shaders/blob/master/math%20functions%20(python)/gonkee_log.py)
@@ -26,6 +30,10 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 
 ### Entropy
 + [What is the role of the logarithm in Shannon's entropy?](https://stats.stackexchange.com/questions/87182/what-is-the-role-of-the-logarithm-in-shannons-entropy)
+
+### Huffman coding
++ [Huffman Coding Implementation in Python with Example](https://favtutor.com/blogs/huffman-coding)
++ [Huffman Encoding — Compression basics in Python](https://medium.com/iecse-hashtag/huffman-coding-compression-basics-in-python-6653cdb4c476)
 
 ### Python
 + [Stripping everything but alphanumeric chars from a string in Python](https://stackoverflow.com/questions/1276764/stripping-everything-but-alphanumeric-chars-from-a-string-in-python)
