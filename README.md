@@ -5,6 +5,9 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 + presentation contains the Powerpoint presentation
 
 ## Consulted material
+### Articles
++ [A mathematical theory of communication]() - the original paper by Claude Shannon, published in 1948 in *The Bell System Technical Journal*. Check its [wikipedia entry](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
+
 ### Videos about Logarithms
 + [How to program your own Log() function](https://www.youtube.com/watch?v=PLx5VJGGwfw), [python code](https://github.com/Gonkee/Gonkees-Shaders/blob/master/math%20functions%20(python)/gonkee_log.py)
 + [How they Invented Logarithms](https://www.youtube.com/watch?v=FB3_BeukBBk)
