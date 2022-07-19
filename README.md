@@ -6,7 +6,7 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 
 ## Consulted material
 ### Videos
-+ https://www.youtube.com/watch?v=FB3_BeukBBk
-+ https://www.youtube.com/watch?v=habHK6wLkic
-+ https://www.youtube.com/watch?v=58aKxyjBjd0
-+ https://www.youtube.com/watch?v=ho1eFp1nDEo
++ [How they Invented Logarithms](https://www.youtube.com/watch?v=FB3_BeukBBk)
++ [Why The Logarithm Is So Important For Algorithms & Data Structures](https://www.youtube.com/watch?v=habHK6wLkic)
++ [Why are logarithms useful](https://www.youtube.com/watch?v=58aKxyjBjd0)
++ [The History of the Natural Logarithm - How was it discovered?](https://www.youtube.com/watch?v=ho1eFp1nDEo)
