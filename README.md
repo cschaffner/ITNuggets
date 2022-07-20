@@ -12,6 +12,15 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 + David J. C. MacKay. 'Information Theory, Inference, and Learning Algorithms': http://www.inference.phy.cam.ac.uk/mackay/itila/book.html. Cambridge University Press, 2003. ISBN 0-521-64298-1
 + Michael Walter's [course homepage](https://qi.ruhr-uni-bochum.de/iit21/) of his course "Introduction to Information Theory (Fall 2021)".
 
++ [Entropy Diagram for Two Random Variables](https://content.datanose.nl/interactive-graphs/entropy-diagrams.htm)
+
+
+### Claude Shannon
++ [Biography movie: The Bit Player](https://thebitplayer.com/)
++ [Claude Elwood Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
++ [The ultimate machine](https://www.youtube.com/watch?v=cZ34RDn34Ws)
++ [Juggling machines](https://www.youtube.com/watch?v=tXU3EPg2cgA)
+
 ### Videos about Logarithms
 + [How to program your own Log() function](https://www.youtube.com/watch?v=PLx5VJGGwfw), [python code](https://github.com/Gonkee/Gonkees-Shaders/blob/master/math%20functions%20(python)/gonkee_log.py)
 + [How they Invented Logarithms](https://www.youtube.com/watch?v=FB3_BeukBBk)
@@ -34,6 +43,9 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 ### Huffman coding
 + [Huffman Coding Implementation in Python with Example](https://favtutor.com/blogs/huffman-coding)
 + [Huffman Encoding — Compression basics in Python](https://medium.com/iecse-hashtag/huffman-coding-compression-basics-in-python-6653cdb4c476)
++ [Huffman coding in Python](https://www.techrepublic.com/article/huffman-coding-in-python/)
++ [Huffman Coding](https://www.programiz.com/dsa/huffman-coding)
+
 
 ### Python
 + [Stripping everything but alphanumeric chars from a string in Python](https://stackoverflow.com/questions/1276764/stripping-everything-but-alphanumeric-chars-from-a-string-in-python)
@@ -41,6 +53,7 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 + [Python's Counter: The Pythonic Way to Count Objects](https://realpython.com/python-counter/)
 + (NumPy random sampling)[https://numpy.org/doc/stable/reference/random/index.html]
 + (Python string formatting)[https://www.w3schools.com/python/python_string_formatting.asp]
++ (Compute Bigrams Frequency in a String in Python)[https://www.codespeedy.com/compute-bigrams-frequency-in-a-string-in-python/]
 
 ### Jupyter Lite * Markdown
 + [The Ultimate Markdown Guide (for Jupyter Notebook)](https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd)
@@ -50,6 +63,8 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 + [Matplotlib grid](https://www.statology.org/matplotlib-show-grid/)
 + [Pie charts](https://www.w3schools.com/python/matplotlib_pie_charts.asp)
 + [Save Matplotlib Plot with Transparent Background](https://datascienceparichay.com/article/save-matplotlib-plot-with-transparent-background/)
++ [Creating annotated heatmaps](https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html)
++ [Better Heatmaps and Correlation Matrix Plots in Python](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec)
 
 ### Powerpoint for Mac
 + [How to add shortcut for Insert Equation in PowerPoint 2016?](https://apple.stackexchange.com/questions/225042/how-to-add-shortcut-for-insert-equation-in-powerpoint-2016)
