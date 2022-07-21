@@ -4,15 +4,19 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 # Folders
 + presentation contains the Powerpoint presentation
 
-## Consulted material
+## Consulted material & Attributions
+
 ### Scientific material
 + [A mathematical theory of communication](https://github.com/cschaffner/ITNuggets/raw/main/articles/Shannon48MathematicalTheoryOfCommunication.pdf) - the original paper by Claude Shannon, published in 1948 in *The Bell System Technical Journal*. Check its [wikipedia entry](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
 + Course lecture notes (work-in-progress) by Yfke Dulek and Christian Schaffner, available on https://github.com/cschaffner/InformationTheory/raw/master/Script/InfTheory3.pdf
 + Thomas M. Cover, Joy A. Thomas. 'Elements of information theory': http://onlinelibrary.wiley.com/book/10.1002/0471200611, 2nd Edition. New York: Wiley-Interscience, 2006. ISBN 0-471-24195-4.
 + David J. C. MacKay. 'Information Theory, Inference, and Learning Algorithms': http://www.inference.phy.cam.ac.uk/mackay/itila/book.html. Cambridge University Press, 2003. ISBN 0-521-64298-1
 + Michael Walter's [course homepage](https://qi.ruhr-uni-bochum.de/iit21/) of his course "Introduction to Information Theory (Fall 2021)".
-
 + [Entropy Diagram for Two Random Variables](https://content.datanose.nl/interactive-graphs/entropy-diagrams.htm)
+
+### Icons
++ [Flaticon.com](https://www.flaticon.com/)
+
 
 
 ### Claude Shannon
@@ -45,6 +49,8 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 + [Huffman Encoding — Compression basics in Python](https://medium.com/iecse-hashtag/huffman-coding-compression-basics-in-python-6653cdb4c476)
 + [Huffman coding in Python](https://www.techrepublic.com/article/huffman-coding-in-python/)
 + [Huffman Coding](https://www.programiz.com/dsa/huffman-coding)
++ [Huffman Coding (Wikipedia)](https://en.wikipedia.org/wiki/Huffman_coding)
++ [Is there a way to guarantee hierarchical output from NetworkX?](https://stackoverflow.com/questions/11479624/is-there-a-way-to-guarantee-hierarchical-output-from-networkx/11484144#11484144)
 
 
 ### Python
@@ -65,6 +71,9 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 + [Save Matplotlib Plot with Transparent Background](https://datascienceparichay.com/article/save-matplotlib-plot-with-transparent-background/)
 + [Creating annotated heatmaps](https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html)
 + [Better Heatmaps and Correlation Matrix Plots in Python](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec)
++ [Discrete distribution as horizontal bar chart](https://matplotlib.org/stable/gallery/lines_bars_and_markers/horizontal_barchart_distribution.html)
++ [my matplotlib title gets cropped](https://stackoverflow.com/questions/8802918/my-matplotlib-title-gets-cropped)
+
 
 ### Powerpoint for Mac
 + [How to add shortcut for Insert Equation in PowerPoint 2016?](https://apple.stackexchange.com/questions/225042/how-to-add-shortcut-for-insert-equation-in-powerpoint-2016)
