@@ -18,7 +18,6 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 + [Flaticon.com](https://www.flaticon.com/)
 
 
-
 ### Claude Shannon
 + [Biography movie: The Bit Player](https://thebitplayer.com/)
 + [Claude Elwood Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
@@ -73,7 +72,7 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 + [Better Heatmaps and Correlation Matrix Plots in Python](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec)
 + [Discrete distribution as horizontal bar chart](https://matplotlib.org/stable/gallery/lines_bars_and_markers/horizontal_barchart_distribution.html)
 + [my matplotlib title gets cropped](https://stackoverflow.com/questions/8802918/my-matplotlib-title-gets-cropped)
-
++ [Tight Layout guide](https://matplotlib.org/stable/tutorials/intermediate/tight_layout_guide.html)
 
 ### Powerpoint for Mac
 + [How to add shortcut for Insert Equation in PowerPoint 2016?](https://apple.stackexchange.com/questions/225042/how-to-add-shortcut-for-insert-equation-in-powerpoint-2016)
