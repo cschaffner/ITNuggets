@@ -1,8 +1,11 @@
 # ITNuggets
-material surrounding the talk "Nuggets of Shannon Information Theory" given by Christian Schaffner at MCH2022
+material surrounding the talk "Nuggets of Shannon Information Theory" given by Christian Schaffner at MCH2022.
 
 # Folders
-+ presentation contains the Powerpoint presentation
++ *presentation* contains the Powerpoint presentation, and the downloaded video of juggling Shannon
++ *notebooks* contains the main ITNuggets.ipynb Jupyter notebook and related material
++ *articles* contains Shannon's original article
+
 
 ## Consulted material & Attributions
 
@@ -13,6 +16,7 @@ material surrounding the talk "Nuggets of Shannon Information Theory" given by C
 + David J. C. MacKay. 'Information Theory, Inference, and Learning Algorithms': http://www.inference.phy.cam.ac.uk/mackay/itila/book.html. Cambridge University Press, 2003. ISBN 0-521-64298-1
 + Michael Walter's [course homepage](https://qi.ruhr-uni-bochum.de/iit21/) of his course "Introduction to Information Theory (Fall 2021)".
 + [Entropy Diagram for Two Random Variables](https://content.datanose.nl/interactive-graphs/entropy-diagrams.htm)
++ [Elements of Information Theory, ECE 534 by Natasha Devroye, University of Illinois at Chicago](https://engineering.webhost.uic.edu/ECE/CoursePlansFall2020/ECE534-Devroye-Fall2020.pdf)
 
 ### Icons
 + [Flaticon.com](https://www.flaticon.com/)
