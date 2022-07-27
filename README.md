@@ -1,5 +1,5 @@
 # ITNuggets
-material surrounding the talk "Nuggets of Shannon Information Theory" given by Christian Schaffner at MCH2022.
+material surrounding the talk "Nuggets of Shannon Information Theory" given by Christian Schaffner at MCH2022. Recording available at https://www.youtube.com/watch?v=we7T7NqTrlU
 
 # Folders
 + *presentation* contains the Powerpoint presentation, and the downloaded video of juggling Shannon
